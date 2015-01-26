@@ -62,28 +62,38 @@
 
   <div class="container">
     <div class="row">
-      <div class="header">
-      <h4>label</h4>
-      <h1>First headline</h1>
-      <h2>Second head</h2>
-      <p><small>Interactive by Pam LeBlanc and Christian McDonald, Austin American-Statesman. <a href="pages/photo-credits.php">Photo credits</a></small></p>
-      <p>Description of your project <span style="font-weight:bold"><a href="#">and a link within it</a></span>.</p>
+      <div class="col-lg-12 header">
+      <h4>THEN AND NOW</h4>
+      <h1>A look back at: The Paramount Theatre</h1>
+      <p><small>Jan. 29, 2014. Interactive by Christian McDonald, Austin American-Statesman.</small></p>
+      <p>The Paramount Theatre later this year will raise a new landmark sign reminiscent of the vertical blade that  dominated Congress Avenue from 1930 until 1964. "It's the candle on our 100th year birthday cake,"said Jim Ritts, director of the Austin Theatre Alliance, which runs the State and Paramount theaters. Sounds like a great way to celebrate throw-back-Thursday.</p>
       </div>
-
-
-
     </div>
 
     <div class="row">
-      <div class="col-lg-7 col-md-7">
+      <div class="col-lg-8">
         <div id="thenAndNow">            
-          <div><img src="assets/1942-paramount-congress.jpg"  class="img-responsive" alt="slide 1" /></div>
-          <div><img src="assets/1942-paramount-congress-now.jpg" class="img-responsive" alt="slide 2" /></div>
+          <div><img src="assets/1935-paramount-sidewalk.jpg"  class="img-responsive" alt="slide 1" /></div>
+          <div><img src="assets/1935-paramount-sidewalk-now.jpg" class="img-responsive" alt="slide 2" /></div>
         </div>
-        <p class="caption clearfix"><em class="pull-right credit">Credit</em></p>
+      </div>
+      <div class="col-lg-4">
+        <h2 style="margin-top:0px;">1935</h2>
+        <p>A sidewalk view of the Paramount sign before 1935. The State Theater replaced the building to the left.</p>
+        <p class="caption clearfix"><em class="pull-right credit">Austin History Center</em></p>
       </div>
     </div>
 
+    <div class="row">
+      <div class="col-lg-12">
+        <h2>1942</h2>
+        <div id="thenAndNow2">            
+          <div><img src="assets/1942-paramount-congress.jpg"  class="img-responsive" alt="slide 1" /></div>
+          <div><img src="assets/1942-paramount-congress-now.jpg" class="img-responsive" alt="slide 2" /></div>
+        </div>
+        <p class="caption clearfix">The Paramount, State and Queen theaters dominated the Congress Avenue entertainment district in 1942. <em class="pull-right credit">Austin History Center</em></p>
+      </div>
+    </div>
 
 
   </div>
