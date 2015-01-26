@@ -5,10 +5,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <?php
   $meta = array(
-    'title' => '2014 Fort Hood shooting timeline',
-    'description' => 'An Army report released Friday revealed new details about the April 2014 shooting at Fort Hood in which Spc. Ivan López killed three fellow soldiers and wounded 16 before killing himself.',
+    'title' => 'Paramount Theatre, then and now | Austin American-Statesman',
+    'description' => 'A look back at how the Paramount Theatre looked in 1935 and 1942 compared to 2015.',
     'thumbnail' => 'http://projects.statesman.com/news/fort-hood-timeline/assets/share.jpg',
-    'url' => 'http://projects.statesman.com/news/fort-hood-timeline/',
+    'url' => 'http://projects.statesman.com/then-and-now/paramount/',
     'twitter' => 'statesman'
   );
 ?>
@@ -71,13 +71,13 @@
     </div>
 
     <div class="row">
-      <div class="col-lg-8">
+      <div class="col-lg-8 col-md-8">
         <div id="thenAndNow">            
           <div><img src="assets/1935-paramount-sidewalk.jpg"  class="img-responsive" alt="slide 1" /></div>
           <div><img src="assets/1935-paramount-sidewalk-now.jpg" class="img-responsive" alt="slide 2" /></div>
         </div>
       </div>
-      <div class="col-lg-4">
+      <div class="col-lg-4 col-md-4">
         <h2 style="margin-top:0px;">1935</h2>
         <p>A sidewalk view of the Paramount sign before 1935. The State Theater replaced the building to the left.</p>
         <p class="caption clearfix"><em class="pull-right credit">Austin History Center</em></p>
