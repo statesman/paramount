@@ -1,7 +1,14 @@
 Then and now: Paramount
 =================================
 
-# This is a derivative of the then-and-now template
+## This is a derivative of then-and-now
+
+This is an instance of the then-and-now template, built around two photo of the Paramount Theatre. It will be published here:
+
+http:projects.statesman.com/then-and-now/paramount/
+
+
+## then-and-now template
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
