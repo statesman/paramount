@@ -79,7 +79,7 @@
       </div>
       <div class="col-lg-4 col-md-4">
         <h2 style="margin-top:0px;">1930s</h2>
-        <p>A sidewalk view of the Paramount sign before 1935. The State Theater replaced the building to the left.</p>
+        <p>A sidewalk view of the Paramount sign before 1935. The State Theater (and the sign that blocks much of the view from this angle in present day) replaced the building to the left.</p>
         <p class="caption clearfix"><em class="pull-right credit">Historical: Jordan Ellison; Contemporary: Ricardo B. Brazziell / American-Statesman</em></p>
       </div>
     </div>
