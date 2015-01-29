@@ -7,7 +7,7 @@
   $meta = array(
     'title' => 'Paramount Theatre, then and now | Austin American-Statesman',
     'description' => 'A look back at how the Paramount Theatre looked in the 1930s and 1942 compared to 2015.',
-    'thumbnail' => 'http://projects.statesman.com/then-and-now/paramount/share.png',
+    'thumbnail' => 'http://projects.statesman.com/then-and-now/paramount/assets/share.png',
     'url' => 'http://projects.statesman.com/then-and-now/paramount/',
     'twitter' => 'statesman'
   );
