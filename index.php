@@ -6,8 +6,8 @@
   <?php
   $meta = array(
     'title' => 'Paramount Theatre, then and now | Austin American-Statesman',
-    'description' => 'A look back at how the Paramount Theatre looked in 1935 and 1942 compared to 2015.',
-    'thumbnail' => 'http://projects.statesman.com/news/fort-hood-timeline/assets/share.jpg',
+    'description' => 'A look back at how the Paramount Theatre looked in the 1930s and 1942 compared to 2015.',
+    'thumbnail' => 'http://projects.statesman.com/then-and-now/paramount/share.png',
     'url' => 'http://projects.statesman.com/then-and-now/paramount/',
     'twitter' => 'statesman'
   );
@@ -65,8 +65,8 @@
       <div class="col-lg-12 header">
       <h4>THEN AND NOW</h4>
       <h1>A look back at: The Paramount Theatre</h1>
-      <p><small>Jan. 29, 2014. Interactive by Christian McDonald, Austin American-Statesman.</small></p>
-      <p>The Paramount Theatre later this year will <a href="http://www.mystatesman.com/news/entertainment/bright-paramount-theatre-sign-to-light-up-congress/njxWJ/" target="_blank">raise a new landmark sign</a> reminiscent of the vertical blade that  dominated Congress Avenue from 1930 until 1964. "It's the candle on our 100th year birthday cake,"said Jim Ritts, director of the Austin Theatre Alliance, which runs the State and Paramount theaters. Sounds like a great way to celebrate throw-back-Thursday. Also check out <a href="http://www.statesman.com/gallery/news/archives-100-years-paramount-theatre/gCQhs/" target="_blank">more historical photos of the Paramount Theatre</a>.</p>
+      <p><small>Jan. 29, 2015. Interactive by Christian McDonald, Austin American-Statesman.</small></p>
+      <p>The Paramount Theatre later this year will <a href="http://www.mystatesman.com/news/entertainment/bright-paramount-theatre-sign-to-light-up-congress/njxWJ/" target="_blank">raise a new landmark sign</a> reminiscent of the vertical blade that  dominated Congress Avenue from 1930 until 1964. "It's the candle on our 100th year birthday cake,"said Jim Ritts, director of the Austin Theatre Alliance, which runs the State and Paramount theaters. Sounds like a great way to celebrate throw-back-Thursday with some then-and-now photos. Also check out <a href="http://www.statesman.com/gallery/news/archives-100-years-paramount-theatre/gCQhs/" target="_blank">more historical photos of the Paramount Theatre</a>.</p>
       </div>
     </div>
 
