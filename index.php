@@ -66,7 +66,7 @@
       <h4>THEN AND NOW</h4>
       <h1>A look back at: The Paramount Theatre</h1>
       <p><small>Jan. 29, 2014. Interactive by Christian McDonald, Austin American-Statesman.</small></p>
-      <p>The Paramount Theatre later this year will raise a new landmark sign reminiscent of the vertical blade that  dominated Congress Avenue from 1930 until 1964. "It's the candle on our 100th year birthday cake,"said Jim Ritts, director of the Austin Theatre Alliance, which runs the State and Paramount theaters. Sounds like a great way to celebrate throw-back-Thursday.</p>
+      <p>The Paramount Theatre later this year will <a href="http://www.mystatesman.com/news/entertainment/bright-paramount-theatre-sign-to-light-up-congress/njxWJ/" target="_blank">raise a new landmark sign</a> reminiscent of the vertical blade that  dominated Congress Avenue from 1930 until 1964. "It's the candle on our 100th year birthday cake,"said Jim Ritts, director of the Austin Theatre Alliance, which runs the State and Paramount theaters. Sounds like a great way to celebrate throw-back-Thursday. Also check out <a href="http://www.statesman.com/gallery/news/archives-100-years-paramount-theatre/gCQhs/" target="_blank">more historical photos of the Paramount Theatre</a>.</p>
       </div>
     </div>
 
@@ -78,7 +78,7 @@
         </div>
       </div>
       <div class="col-lg-4 col-md-4">
-        <h2 style="margin-top:0px;">1930s</h2>
+        <h3 style="margin-top:0px;">1930s</h3>
         <p>A sidewalk view of the Paramount sign before 1935. The State Theater (and the sign that blocks much of the view from this angle in present day) replaced the building to the left.</p>
         <p class="caption clearfix"><em class="pull-right credit">Historical: Jordan Ellison; Contemporary: Ricardo B. Brazziell / American-Statesman</em></p>
       </div>
@@ -86,13 +86,14 @@
 
     <div class="row">
       <div class="col-lg-12">
-        <h2>1942</h2>
+        <h3>1942</h3>
         <div id="thenAndNow2">            
           <div><img src="assets/1942-paramount-congress.jpg"  class="img-responsive" alt="slide 1" /></div>
           <div><img src="assets/1942-paramount-congress-now.jpg" class="img-responsive" alt="slide 2" /></div>
         </div>
         <p class="caption clearfix">The Paramount, State and Queen theaters dominated the Congress Avenue entertainment district in 1942. <em class="pull-right credit">Historical: Parmamount Theatre; Contemporary: Christian McDonald, American-Statesman</em></p>
       </div>
+      <p></p>
     </div>
 
 
