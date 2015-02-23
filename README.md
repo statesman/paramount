@@ -7,6 +7,11 @@ This is an instance of the then-and-now template, built around two photo of the 
 
 http:projects.statesman.com/then-and-now/paramount/
 
+## Mobile play
+Responsive via Bootstrap.
+
+## Social play
+Standard sharing buttons.
 
 ## then-and-now template
 
